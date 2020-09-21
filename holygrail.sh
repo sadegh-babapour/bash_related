@@ -1,4 +1,6 @@
 #!/usr/bin/bash
+#Author: Sadegh Babapour
+# @linkedin billgisayar
 
 function myfunk()
 {
